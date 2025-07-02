@@ -1,2 +1,2 @@
 # DataXperience
-Clase introductoria a la ciencia de datos
+Bienvenido a esta Clase introductoria a la ciencia de datos
