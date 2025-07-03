@@ -24,7 +24,7 @@ Los notebooks están organizados de forma secuencial para facilitar tu aprendiza
 ## 🚀 ¿Cómo usar este repositorio?
 1. Descarga o clona el repositorio en tu equipo:
    
-git clone https://github.com/tu_usuario/nombre_del_repositorio.git
+git clone https://github.com/ProfeCamilaSilva/DataXperience.git 
 
 3. Abre los notebooks en Google Colab o Jupyter Notebook.
 4. Sigue cada cuaderno paso a paso y modifica las celdas para practicar.
