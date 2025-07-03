@@ -20,6 +20,10 @@ Los notebooks están organizados de forma secuencial para facilitar tu aprendiza
 4. Limpieza_de_Datos: Técnicas básicas para detectar y corregir errores, valores nulos y outliers en tus datos.
 5. Estadística_Descriptiva: Análisis exploratorio de datos con medidas como media, mediana, moda y desviación estándar.
 6. Como_se_comportan_tus_datos: Visualiza distribuciones, analiza simetría, curtosis y patrones en los datos.
+7. Visualizacion_&_Documentacion:
+8. Dashboards:
+9. Modelos_Predictivos:
+10. Storytellin_con_Datos
 
 ## 🚀 ¿Cómo usar este repositorio?
 1. Descarga o clona el repositorio en tu equipo:
