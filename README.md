@@ -23,7 +23,8 @@ Los notebooks están organizados de forma secuencial para facilitar tu aprendiza
 7. Visualizacion_&_Documentacion:
 8. Dashboards:
 9. Modelos_Predictivos:
-10. Storytellin_con_Datos
+10. Storytellin_con_Datos:
+11. Estadistica_en_Accion:
 
 ## 🚀 ¿Cómo usar este repositorio?
 1. Descarga o clona el repositorio en tu equipo:
