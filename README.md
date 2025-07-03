@@ -4,11 +4,15 @@ Este repositorio contiene los cuadernos de trabajo utilizados en la clase de Dat
 Aquí podrás aprender y practicar paso a paso los conceptos fundamentales, usando ejemplos reales y ejercicios que podrás personalizar según tus necesidades.
 
 ## 🧠 ¿Qué encontrarás aquí?
+
 📁 Una colección de notebooks (cuadernos Jupyter) organizados por temas clave.
+
 🧪 Espacios para que experimentes tu propio código y consolides tu aprendizaje.
+
 ✅ Una guía práctica que puedes seguir a tu ritmo, con posibilidad de reutilizar, modificar y extender.
 
 ## 📚 Estructura del repositorio
+
 Los notebooks están organizados de forma secuencial para facilitar tu aprendizaje:
 1. Tipo_de_Datos: Introducción a los tipos de datos en Python (numéricos, texto, booleanos, etc.)
 2. Operadores_&_Jerarquías: Aprende a usar operadores aritméticos, lógicos y relacionales, y su jerarquía.
@@ -19,12 +23,17 @@ Los notebooks están organizados de forma secuencial para facilitar tu aprendiza
 
 ## 🚀 ¿Cómo usar este repositorio?
 1. Descarga o clona el repositorio en tu equipo:
+   
 git clone https://github.com/tu_usuario/nombre_del_repositorio.git
-2. Abre los notebooks en Google Colab o Jupyter Notebook.
-3. Sigue cada cuaderno paso a paso y modifica las celdas para practicar.
-4. Experimenta y crea tus propias pruebas sobre los ejemplos dados.
+
+3. Abre los notebooks en Google Colab o Jupyter Notebook.
+4. Sigue cada cuaderno paso a paso y modifica las celdas para practicar.
+5. Experimenta y crea tus propias pruebas sobre los ejemplos dados.
 
 ## 💬 Recomendaciones
+
 Usa Google Colab si no tienes Python instalado. Solo necesitas tu cuenta de Google.
+
 Toma notas mientras trabajas en los notebooks.
+
 No tengas miedo de modificar el código: ¡así se aprende mejor!
